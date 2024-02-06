@@ -1,3 +1,8 @@
+# About
+
+This portfolio is to show my skills in full stack development.
+Currently made with Vuetify and Nuxt3.
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
